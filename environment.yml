@@ -1,0 +1,9 @@
+name: gestures
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip>=20.2.4
+  - pip:
+    - pyautogui
+    - mediapipe==0.10.9

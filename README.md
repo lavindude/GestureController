@@ -1,3 +1,5 @@
+This project was made to control a computer's mouse with only hand gestures.
+
 # Current state
 
 - Very unstable and shaky, hard to control
